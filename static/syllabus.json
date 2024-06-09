@@ -2,20 +2,24 @@
   "title": "Kyakushin syllabus",
   "kyus": [
     {
-      "kyu": 10,
+      "id": 10,
+      "name": "10th kyu",
       "color": "orange",
       "tsukis": [
         {
+          "id": 0,
           "name": "Morote tsuki"
         }
       ],
       "keris": [
         {
+          "id": 0,
           "name": "Kin geri"
         }
       ],
       "katas": [
         {
+          "id": 0,
           "name": "Taikyoko sono ichi",
           "videos": [
             {
@@ -27,20 +31,38 @@
       ]
     },
     {
-      "kyu": 9,
+      "id": 9,
+      "name": "9th kyu",
       "color": "orange",
       "tsukis": [
         {
-          "name": "Morote tsuki"
+          "id": 0,
+          "name": "Seiken Shita Tsuki"
+        },
+        {
+          "id": 1,
+          "name": "Seiken Tate Tsuki"
         }
       ],
       "keris": [
         {
-          "name": "Kin geri"
+          "id": 0,
+          "name": "Mae Keage"
+        },
+        {
+          "id": 1,
+          "name": "Yoko Keage"
+        }
+      ],
+      "uke": [
+        {
+          "id": 0,
+          "name": "Chudan Soto Uke"
         }
       ],
       "katas": [
         {
+          "id": 0,
           "name": "Taikyoko sono ichi",
           "videos": [
             {
