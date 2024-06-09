@@ -1,0 +1,55 @@
+{
+  "title": "Kyakushin syllabus",
+  "kyus": [
+    {
+      "kyu": 10,
+      "color": "orange",
+      "tsukis": [
+        {
+          "name": "Morote tsuki"
+        }
+      ],
+      "keris": [
+        {
+          "name": "Kin geri"
+        }
+      ],
+      "katas": [
+        {
+          "name": "Taikyoko sono ichi",
+          "videos": [
+            {
+              "name": "Ichi",
+              "link": "youtube.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kyu": 9,
+      "color": "orange",
+      "tsukis": [
+        {
+          "name": "Morote tsuki"
+        }
+      ],
+      "keris": [
+        {
+          "name": "Kin geri"
+        }
+      ],
+      "katas": [
+        {
+          "name": "Taikyoko sono ichi",
+          "videos": [
+            {
+              "name": "Ichi",
+              "link": "youtube.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
