@@ -1,10 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ["nuxt-primevue", "tailwindcss"],
-  typescript: {
-    typeCheck: true
-},
+  modules: ["nuxt-primevue"],
   primevue: {
     cssLayerOrder: 'reset,primevue'
 },
