@@ -17,6 +17,12 @@
           "name": "Kin geri"
         }
       ],
+      "ukes": [
+        {
+          "id": 0,
+          "name": "Jodan uke"
+        }
+      ],
       "katas": [
         {
           "id": 0,
@@ -54,7 +60,7 @@
           "name": "Yoko Keage"
         }
       ],
-      "uke": [
+      "ukes": [
         {
           "id": 0,
           "name": "Chudan Soto Uke"
