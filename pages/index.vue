@@ -25,15 +25,21 @@ const selectItem = (itemId) => {
   margin-top: 0.5rem;
   height: 5px;
 }
+.selected {
+  width: 100%;
+  border-bottom: 5px solid black;
+ }
 </style>
 <template>
   <div class="horizontal">
   <div :key="kuy.id" v-for="kuy in items">
     <Button @click="() => selectItem(kuy.id)">{{ kuy.id }}</Button>
     <div class="button" :style="{ 'background-color': kuy.color}"></div>
+    <div class="selected" v-show="selectedItem && selectedItem.id == kuy.id"></div>
   </div>
 </div>
   <div v-if="selectedItem">
+    <h1>{{ selectedItem.name }}</h1>
     <h2>Tachikata</h2>
     <p v-for="tachi in selectedItem.tachikatas">{{tachi.name}}</p>
     <h2>Tsuki</h2>

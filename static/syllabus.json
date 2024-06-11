@@ -78,6 +78,24 @@
     "id": 9,
     "name": "9th kyu",
     "color": "orange",
+      "tachikatas": [
+          {
+              "id": 0,
+              "name": "Musubi Dachi"
+          },
+          {
+              "id": 1,
+              "name": "Heiko Dachi"
+          },
+          {
+              "id": 2,
+              "name": "Heisoku Dachi"
+          },
+          {
+              "id": 3,
+              "name": "Kokutsu Dachi"
+          }
+      ],
     "tsukis": [
       {
         "id": 0,
@@ -85,8 +103,15 @@
       },
       {
         "id": 1,
-        "name": "Seiken Tate Tsuki"
-      }
+        "name": "Seiken Tate Tsuki (Jodan, Chudan, Gedan)"
+      },
+        { "id":2,
+          "name": "Seiken Kagi Tsuki"
+        },
+        {
+            "id": 3,
+            "name": "Hiji Ate (Jodan, Chudan)"
+        }
     ],
     "keris": [
       {
@@ -96,59 +121,544 @@
       {
         "id": 1,
         "name": "Yoko Keage"
-      }
+      },
+        {
+            "id": 2,
+            "name": "Uchi Mawashi Keage"
+        },
+        {
+            "id": 3,
+            "name": "Soto Mawashi Keage"
+        }
     ],
     "ukes": [
       {
         "id": 0,
-        "name": "Chudan Soto Uke"
-      }
+        "name": "(Seiken/Shuto) Chudan Soto Uke"
+      },
+        {
+            "id": 1,
+            "name": "(Seiken/Shuto) Chudan Uchi Uke"
+        }
     ],
     "katas": [
       {
         "id": 0,
-        "name": "Taikyoko sono ichi"
+        "name": "Taikyoko sono san"
       }
     ]
   },
   {
     "id": 8,
     "name": "8th kyu",
-    "color": "blue"
+    "color": "blue",
+      "tachikatas": [
+          {
+              "id": 0,
+              "name": "Kiba Dachi"
+          },
+          {
+              "id": 1,
+              "name": "Tsuru Ashi Dachi"
+          },
+          {
+              "id": 2,
+              "name": "Kumite No Kamae"
+          }
+      ],
+      "tsukis": [
+          {
+              "id": 0,
+              "name": "Uraken Ganmen Uchi"
+          },
+           {
+              "id": 1,
+              "name": "Uraken Sayu Ganmen Uchi"
+          },
+           {
+              "id": 2,
+              "name": "Uraken Hizo Uchi"
+          },
+           {
+              "id": 3,
+              "name": "Uraken Mawashi Uchi"
+          },
+           {
+              "id": 4,
+              "name": "Uraken Oroshi Ganmen Uchi"
+          }
+      ],
+      "ukes": [
+          {
+              "id": 0,
+              "name": "(Seiken/Shuto) Uchi Uke - Gedan Barai"
+          },
+           {
+              "id": 1,
+              "name": "Morote Chudan Uchi Uke"
+          }
+
+      ],
+      "keris": [
+                {
+              "id": 0,
+              "name": "Kansetsu Geri"
+          },
+           {
+              "id": 1,
+              "name": "Yoko Geri (Jodan, Chudan)"
+          },
+           {
+              "id": 2,
+              "name": "Mawashi Geri (Chusoku/Haisoku) (Jodan, Chudan, Gedan)"
+          }
+ ],
+      "katas": [
+                {
+              "id": 0,
+              "name": "Sokugi Taikyoku Sono Ichi"
+          },
+           {
+              "id": 1,
+              "name": "Sokugi Taikyoku Sono Ni"
+          },
+           {
+              "id": 2,
+              "name": "Sokugi Taikyoku Sono San"
+           }
+ ]
   },
   {
     "id": 7,
     "name": "7th kyu",
-    "color": "blue"
+    "color": "blue",
+       "tachikatas": [
+           {
+               "id": 0,
+               "name": "Uchi Hachiji Dachi"
+           },
+            {
+               "id": 1,
+               "name": "Neko Ashi Dachi"
+           },
+            {
+               "id": 2,
+               "name": "Shiko Dachi"
+           }
+       ],
+      "tsukis": [
+                 {
+               "id": 0,
+               "name": "Tettsui Komi Kami"
+           },
+            {
+               "id": 1,
+               "name": "Tettsui Oroshi Ganmen Uchi"
+           },
+            {
+               "id": 2,
+               "name": "Tettsui Hizo Uchi"
+           },
+            {
+               "id": 3,
+               "name": "Tettsui Yoko Uchi Mae (Jodan/Chudan/Gedan)"
+           },
+            {
+               "id": 4,
+               "name": "Tettsui Yoko Uchi (Jodan/Chudan/Gedan)"
+           }
+ ],
+      "ukes": [
+                 {
+               "id": 0,
+               "name": "Shuto Mawashi Uke"
+           },
+            {
+               "id": 1,
+               "name": "Mae Shuto Mawashi Uke"
+           }
+ ],
+      "keris": [
+                 {
+               "id": 0,
+               "name": "Jodan Uchi Heisoku Geri"
+           },
+            {
+               "id": 1,
+               "name": "Ago Jodan Geri"
+           }
+ ],
+      "katas": [
+                 {
+               "id": 0,
+               "name": "Pinan Sono Ichi"
+           },
+            {
+               "id": 1,
+               "name": "Sanchin No Kata"
+           }
+ ]
   },
   {
     "id": 6,
     "name": "6th kyu",
-    "color": "yellow"
+    "color": "yellow",
+       "tachikatas": [
+                  {
+               "id": 0,
+               "name": "Kake Ashi Dachi"
+           }
+ ],
+      "tsukis": [
+                 {
+               "id": 0,
+               "name": "Shuto Yoko Ganmen Uchi"
+           },
+            {
+               "id": 1,
+               "name": "Shuto Sakotsu Uchi"
+           },
+            {
+               "id": 2,
+               "name": "Shuto Hizo Uchi"
+           },
+            {
+               "id": 3,
+               "name": "Shuto Jodan Uchi Uchi"
+           },
+            {
+               "id": 4,
+               "name": "Shuto Sakutsu Uchi Komi"
+           },
+            {
+               "id": 5,
+               "name": "Ushiro Hiji Ate"
+           },
+            {
+               "id": 6,
+               "name": "Nihon Nukite"
+           },
+            {
+               "id": 7,
+               "name": "Yonhon Nukite (Jodan/Chudan)"
+           }
+ ],
+      "ukes": [
+            {
+               "id": 0,
+               "name": "Enkei Gyaku Tsuki"
+           },
+            {
+               "id": 1,
+               "name": "Mawashi Gedan Barai"
+           },
+            {
+               "id": 2,
+               "name": "Juji Gedan Barai"
+           },
+            {
+               "id": 3,
+               "name": "Hiji Uke"
+           },
+            {
+               "id": 4,
+               "name": "Jodan Shuto Uchi Uke"
+           }
+      ],
+      "keris": [
+            {
+               "id": 0,
+               "name": "Ushiro Geri (Jodan, Chudan, Gedan) x3"
+           },
+            {
+               "id": 1,
+               "name": "Ushiro Mawashi Geri (Jodan, Chudan, Gedan)"
+           }
+      ],
+      "katas": [
+            {
+               "id": 0,
+               "name": "Pinan Sono Ni"
+           },
+            {
+               "id": 1,
+               "name": "Pinan Sono San"
+           }
+      ]
   },
   {
     "id": 5,
     "name": "5th kyu",
-    "color": "yellow"
+    "color": "yellow",
+       "tachikatas": [
+            {
+               "id": 0,
+               "name": "Moro Ashi Dachi"
+           }
+       ],
+      "tsukis": [
+            {
+               "id": 1,
+               "name": "Shotei Uchi (Jodan/Chudan/Gedan)"
+           },
+            {
+               "id": 2,
+               "name": "Age Hiji Ate (Jodan, Chudan)"
+           },
+            {
+               "id": 3,
+               "name": "Oroshi Hiji Ate"
+           },
+            {
+               "id": 4,
+               "name": "Jun Tsuki (Jodan/Chudan/Gedan)"
+           }
+      ],
+      "ukes": [
+            {
+               "id": 0,
+               "name": "Seiken Juji Uke (Jodan/Gedan)"
+           },
+            {
+               "id": 1,
+               "name": "Shuto Juji Uke (Jodan/Gedan)"
+           },
+            {
+               "id": 2,
+               "name": "Shotei Uke (Jodan/Chudan/Gedan)"
+           }
+      ],
+      "keris": [
+            {
+               "id": 0,
+               "name": "Oroshi Uchi Kakato Geri"
+           },
+            {
+               "id": 1,
+               "name": "Oroshi Soto Kakato Geri"
+           }
+      ],
+      "katas": [
+            {
+               "id": 0,
+               "name": "Pinan Sono Yon"
+           }
+      ]
   },
   {
     "id": 4,
     "name": "4th kyu",
-    "color": "green"
+    "color": "green",
+       "tsukis": [
+            {
+               "id": 0,
+               "name": "Koken Uchi (Jodan/Chudan/Gedan)"
+           },
+            {
+               "id": 1,
+               "name": "Mae Hiji Ate (Jodan/Chudan)"
+           },
+            {
+               "id": 2,
+               "name": "Haishu Uchi (Jodan/Chudan)"
+           }
+       ],
+      "tachikatas": [
+     ],
+      "ukes": [
+            {
+               "id": 0,
+               "name": "Koken Uke (Jodan/Chudan/Gedan)"
+           }
+      ],
+      "keris": [
+            {
+               "id": 0,
+               "name": "Kake Geri (Jodan/Chudan/Gedan)"
+           }
+      ],
+      "katas": [
+            {
+               "id": 0,
+               "name": "Pinan Sono Go"
+           },
+            {
+               "id": 1,
+               "name": "Taikyoku Sono Ichi Ura"
+           },
+            {
+               "id": 2,
+               "name": "Taikyoku Sono Ni Ura"
+           },
+            {
+               "id": 3,
+               "name": "Taikyoku Sono San Ura"
+           }
+      ]
   },
   {
     "id": 3,
     "name": "3rd kyu",
-    "color": "green"
+    "color": "green",
+       "tachikatas": [
+       ],
+      "tsukis": [
+            {
+               "id": 0,
+               "name": "Hira Ken Tsuki (Jodan/Chudan)"
+           },
+            {
+               "id": 1,
+               "name": "Hira Ken Oroshi Uchi"
+           },
+            {
+               "id": 2,
+               "name": "Hira Ken Mawashi Uchi"
+           }
+      ],
+      "ukes": [
+            {
+               "id": 0,
+               "name": "Gedan Shotei Morote Uke"
+           },
+            {
+               "id": 1,
+               "name": "Gedan Shuto Morote Uke"
+           }
+      ],
+      "keris": [
+            {
+               "id": 0,
+               "name": "Mae Kakato Geri (Jodan/Chudan/Gedan)"
+           },
+            {
+               "id": 1,
+               "name": "Age Kakato Ushiro Geri"
+           }
+      ],
+      "katas": [
+          {
+              "id": 0,
+              "name": "Tsuki No Kata"
+          }
+      ]
   },
   {
     "id": 2,
     "name": "2nd kyu",
-    "color": "brown"
+    "color": "brown",
+       "tachikatas": [
+       ],
+      "tsukis": [
+            {
+               "id": 0,
+               "name": "Ryuto Ken Tsuki (Jodan/Chudan)"
+           },
+            {
+               "id": 1,
+               "name": "Naka Yubi Ippon Ken (Jodan/Chudan)"
+           },
+            {
+               "id": 2,
+               "name": "Oya Yubi Ippon Ken (Jodan/Chudan)"
+           },
+            {
+               "id": 3,
+               "name": "Hitosashi Yubi Ippon Ken (Jodan/Chudan)"
+           },
+            {
+               "id": 4,
+               "name": "Yama Tsuki"
+           }
+      ],
+      "ukes": [
+            {
+               "id": 0,
+               "name": "Kake Uke"
+           },
+            {
+               "id": 1,
+               "name": "Morote Kake Uke"
+           }
+      ],
+      "keris": [
+            {
+               "id": 0,
+               "name": "Tobi Mae Geri"
+           },
+            {
+               "id": 1,
+               "name": "Tobi Nidan Geri"
+           }
+      ],
+      "katas": [
+            {
+               "id": 0,
+               "name": "Geki Sai Dai"
+           },
+            {
+               "id": 1,
+               "name": "Tensho"
+           }
+      ]
   },
   {
     "id": 1,
     "name": "1st kyu",
-    "color": "brown"
+    "color": "brown",
+       "tachikatas": [
+       ],
+      "tsukis": [
+            {
+               "id": 0,
+               "name": "Keiko Uchi"
+           },
+            {
+               "id": 1,
+               "name": "Haito Uchi (Jodan/Chudan/Gedan)"
+           },
+            {
+               "id": 2,
+               "name": "Morote Haito Uchi (Jodan/Chudan)"
+           }
+      ],
+      "ukes": [
+            {
+               "id": 0,
+               "name": "Chudan Haito Uchi Uke"
+           },
+            {
+               "id": 1,
+               "name": "Osae Uke"
+           }
+      ],
+      "keris": [
+            {
+               "id": 0,
+               "name": "Yoko Tobi Geri"
+           },
+            {
+               "id": 1,
+               "name": "Mawashi Tobi Geri"
+           },
+            {
+               "id": 2,
+               "name": "Ushiro Tobi Geri"
+           },
+            {
+               "id": 3,
+               "name": "Ushiro Mawashi Tobi Geri"
+           }
+      ],
+      "katas": [
+            {
+               "id": 0,
+               "name": "Geki Sai Sho"
+           },
+            {
+               "id": 1,
+               "name": "Yantsu"
+           }
+      ]
   }
 ]
