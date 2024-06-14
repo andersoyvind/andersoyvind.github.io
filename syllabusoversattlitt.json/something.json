@@ -1,0 +1,306 @@
+[
+  {
+    "id": 10,
+    "name": "10. kyu",
+    "color": "oransje",
+    "tachikatas": [
+      {
+        "id": 0,
+        "name": "Klar Stilling (Yoi Dachi)"
+      },
+      {
+        "id": 1,
+        "name": "Ubevegelig Stilling (Fudo Dachi)"
+      },
+      {
+        "id": 2,
+        "name": "Tre Kamp Stilling (Sanchin Dachi)"
+      },
+      {
+        "id": 3,
+        "name": "Foroverbøyd Stilling (Zenkutsu Dachi)"
+      }
+    ],
+    "tsukis": [
+      {
+        "id": 0,
+        "name": "Fremover Slag (Seiken Oi Tsuki) (Jodan, Chudan, Gedan)"
+      },
+      {
+        "id": 1,
+        "name": "Omvendt Slag (Seiken Gyaku Tsuki) (Jodan, Chudan, Gedan)"
+      },
+      {
+        "id": 2,
+        "name": "Dobbel Slag (Seiken Morote Tsuki) (Jodan, Chudan, Gedan)"
+      },
+      {
+        "id": 3,
+        "name": "Hakeslag (Seiken Ago Uchi)"
+      }
+    ],
+    "keris": [
+      {
+        "id": 0,
+        "name": "Knespark (Hiza Geri)"
+      },
+      {
+        "id": 1,
+        "name": "Spark mot skrittet (Kin Geri)"
+      },
+      {
+        "id": 2,
+        "name": "Forover Spark (Mae Geri) (Jodan, Chudan, Gedan)"
+      }
+    ],
+    "ukes": [
+      {
+        "id": 0,
+        "name": "Blokkering mot ansiktet (Seiken/Shuto) Jodan uke"
+      },
+      {
+        "id": 1,
+        "name": "Blokkering nedover foran (Seiken/Shuto) Mae Gedan Barai"
+      }
+    ],
+    "katas": [
+      {
+        "id": 0,
+        "name": "Grunnform 1 (Taikyoku sono ichi)"
+      },
+      {
+        "id": 1,
+        "name": "Grunnform 2 (Taikyoku sono ni)"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "9. kyu",
+    "color": "oransje",
+    "tachikatas": [
+      {
+        "id": 0,
+        "name": "Føttene sammen Stilling (Musubi Dachi)"
+      },
+      {
+        "id": 1,
+        "name": "Parallell Stilling (Heiko Dachi)"
+      },
+      {
+        "id": 2,
+        "name": "Lukket Stilling (Heisoku Dachi)"
+      },
+      {
+        "id": 3,
+        "name": "Bakover Stilling (Kokutsu Dachi)"
+      }
+    ],
+    "tsukis": [
+      {
+        "id": 0,
+        "name": "Lavt Slag (Seiken Shita Tsuki)"
+      },
+      {
+        "id": 1,
+        "name": "Oppreist Slag (Seiken Tate Tsuki) (Jodan, Chudan, Gedan)"
+      },
+      {
+        "id": 2,
+        "name": "Krokslag (Seiken Kagi Tsuki)"
+      },
+      {
+        "id": 3,
+        "name": "Albue Slag (Hiji Ate) (Jodan, Chudan)"
+      }
+    ],
+    "keris": [
+      {
+        "id": 0,
+        "name": "Spark oppover (Mae Keage)"
+      },
+      {
+        "id": 1,
+        "name": "Sidespark oppover (Yoko Keage)"
+      },
+      {
+        "id": 2,
+        "name": "Innvendig sirkel spark (Uchi Mawashi Keage)"
+      },
+      {
+        "id": 3,
+        "name": "Utvendig sirkel spark (Soto Mawashi Keage)"
+      }
+    ],
+    "ukes": [
+      {
+        "id": 0,
+        "name": "Utvendig blokkering (Seiken/Shuto) Chudan Soto Uke"
+      },
+      {
+        "id": 1,
+        "name": "Innvendig blokkering (Seiken/Shuto) Chudan Uchi Uke"
+      }
+    ],
+    "katas": [
+      {
+        "id": 0,
+        "name": "Grunnform 3 (Taikyoku sono san)"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "8. kyu",
+    "color": "blå",
+    "tachikatas": [
+      {
+        "id": 0,
+        "name": "Ridende Stilling (Kiba Dachi)"
+      },
+      {
+        "id": 1,
+        "name": "Trane Stilling (Tsuru Ashi Dachi)"
+      },
+      {
+        "id": 2,
+        "name": "Kamp Stilling (Kumite No Kamae)"
+      }
+    ],
+    "tsukis": [
+      {
+        "id": 0,
+        "name": "Bakholds Slag (Uraken Ganmen Uchi)"
+      },
+      {
+        "id": 1,
+        "name": "Side bakholds Slag (Uraken Sayu Ganmen Uchi)"
+      },
+      {
+        "id": 2,
+        "name": "Side bakholds kropp Slag (Uraken Hizo Uchi)"
+      },
+      {
+        "id": 3,
+        "name": "Sirkulært bakholds Slag (Uraken Mawashi Uchi)"
+      },
+      {
+        "id": 4,
+        "name": "Nedover bakholds Slag (Uraken Oroshi Ganmen Uchi)"
+      }
+    ],
+    "ukes": [
+      {
+        "id": 0,
+        "name": "Innvendig blokkering nedover (Seiken/Shuto) Uchi Uke - Gedan Barai"
+      },
+      {
+        "id": 1,
+        "name": "Dobbel innvendig blokkering (Morote Chudan Uchi Uke)"
+      }
+    ],
+    "keris": [
+      {
+        "id": 0,
+        "name": "Knestøtte spark (Kansetsu Geri)"
+      },
+      {
+        "id": 1,
+        "name": "Sidespark (Yoko Geri) (Jodan, Chudan)"
+      },
+      {
+        "id": 2,
+        "name": "Sirkel Spark (Mawashi Geri) (Chusoku/Haisoku) (Jodan, Chudan, Gedan)"
+      }
+    ],
+    "katas": [
+      {
+        "id": 0,
+        "name": "Spark Grunnform 1 (Sokugi Taikyoku Sono Ichi)"
+      },
+      {
+        "id": 1,
+        "name": "Spark Grunnform 2 (Sokugi Taikyoku Sono Ni)"
+      },
+      {
+        "id": 2,
+        "name": "Spark Grunnform 3 (Sokugi Taikyoku Sono San)"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "7. kyu",
+    "color": "blå",
+    "tachikatas": [
+      {
+        "id": 0,
+        "name": "Innover Fotskråning Stilling (Uchi Hachiji Dachi)"
+      },
+      {
+        "id": 1,
+        "name": "Katt Fot Stilling (Neko Ashi Dachi)"
+      },
+      {
+        "id": 2,
+        "name": "Sumo Stilling (Shiko Dachi)"
+      }
+    ],
+    "tsukis": [
+      {
+        "id": 0,
+        "name": "Jernhammer Slag (Tettsui Komi Kami)"
+      },
+      {
+        "id": 1,
+        "name": "Nedover Jernhammer Slag (Tettsui Oroshi Ganmen Uchi)"
+      },
+      {
+        "id": 2,
+        "name": "Side Jernhammer Slag (Tettsui Hizo Uchi)"
+      },
+      {
+        "id": 3,
+        "name": "Forover Jernhammer Slag (Tettsui Yoko Uchi Mae) (Jodan/Chudan/Gedan)"
+      },
+      {
+        "id": 4,
+        "name": "Jernhammer Slag til siden (Tettsui Yoko Uchi) (Jodan/Chudan/Gedan)"
+      }
+    ],
+    "ukes": [
+      {
+        "id": 0,
+        "name": "Sirkulær håndkant blokkering (Shuto Mawashi Uke)"
+      },
+      {
+        "id": 1,
+        "name": "Forover sirkulær håndkant blokkering (Mae Shuto Mawashi Uke)"
+      }
+    ],
+    "keris": [
+      {
+        "id": 0,
+        "name": "Forover Hoppespark (Mae Tobi Geri)"
+      },
+      {
+        "id": 1,
+        "name": "Side Hoppespark (Yoko Tobi Geri)"
+      },
+      {
+        "id": 2,
+        "name": "Bakover spark (Ushiro Geri)"
+      }
+    ],
+    "katas": [
+      {
+        "id": 0,
+        "name": "Pinan Grunnform 1 (Pinan Sono Ichi)"
+      },
+      {
+        "id": 1,
+        "name": "Pinan Grunnform 2 (Pinan Sono Ni)"
+      }
+    ]
+  }
+]
