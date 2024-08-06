@@ -5,5 +5,6 @@ export default defineNuxtConfig({
   primevue: {
     cssLayerOrder: 'reset,primevue'
 },
+  compatibilityDate: '2024-08-06',
   css: ["primevue/resources/themes/aura-light-green/theme.css"],
 });
