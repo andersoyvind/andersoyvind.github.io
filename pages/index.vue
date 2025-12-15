@@ -6,7 +6,7 @@ const items = ref([]);
 
 onMounted(() => {
   items.value = json;
-  selectItem(10);
+  selectItem(20);
 });
 
 const selectItem = (itemId) => {
@@ -33,7 +33,7 @@ const selectItem = (itemId) => {
 <template>
   <div class="horizontal">
   <div :key="kuy.id" v-for="kuy in items">
-    <Button @click="() => selectItem(kuy.id)">{{ kuy.id }}</Button>
+    <Button @click="() => selectItem(kuy.id)">{{ kuy.name }}</Button>
     <div class="button" :style="{ 'background-color': kuy.color}"></div>
     <div class="selected" v-show="selectedItem && selectedItem.id == kuy.id"></div>
   </div>
@@ -50,5 +50,16 @@ const selectItem = (itemId) => {
     <p v-for="keri in selectedItem.keris">{{keri.name}}</p>
     <h2>Katas</h2>
     <p v-for="kata in selectedItem.katas">{{ kata.name }}</p>
+    <div v-if="selectedItem.renrakus">
+      <h2>Renraku</h2>
+      <p v-for="renraku in selectedItem.renrakus">{{ renraku.name }} - {{ renraku.steps}}</p>
+    </div>
+    <h2>Requirements</h2>
+    <p>Push ups: {{ selectedItem.pushups }}</p>
+    <p>Sit ups: {{ selectedItem.situps }}</p>
+    <p>Jumps: {{ selectedItem.jumps }}</p>
+    <p>Pull ups: {{ selectedItem.pullups }}</p>
+    <p>Tobi Geri: {{ selectedItem.tobigeri }}</p>
+    <p>Fights: {{ selectedItem.fights }}</p>
   </div>
 </template>

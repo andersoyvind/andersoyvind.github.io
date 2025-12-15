@@ -1,6 +1,6 @@
 [
   {
-    "id": 10,
+    "id": 20,
     "name": "10th kyu",
     "color": "orange",
     "tachikatas": [
@@ -72,10 +72,16 @@
         "id": 1,
         "name": "Taikyoko sono ni"
       }
-    ]
+    ],
+    "fights": "None required",
+    "pushups":15,
+    "situps": 40,
+    "jumps": 15,
+    "pullups": 3,
+    "tobigeri": "Same height as one self"
   },
   {
-    "id": 9,
+    "id": 19,
     "name": "9th kyu",
     "color": "orange",
       "tachikatas": [
@@ -146,10 +152,16 @@
         "id": 0,
         "name": "Taikyoko sono san"
       }
-    ]
+    ],
+    "fights": "None required",
+    "pushups":20,
+    "situps": 45,
+    "jumps": 20,
+    "pullups": 4,
+    "tobigeri": "Same height as one self"
   },
   {
-    "id": 8,
+    "id": 18,
     "name": "8th kyu",
     "color": "blue",
       "tachikatas": [
@@ -226,10 +238,20 @@
               "id": 2,
               "name": "Sokugi Taikyoku Sono San"
            }
- ]
+ ],
+    "renrakus": [
+      {"name": "Renraku 1", "steps": "Mae Geri, Chudan Gyaku Tsuki" },
+      {"name": "Renraku 2", "steps": "Skip forward, Chudan Soto Uke, Mae Gedan Barai, Chudan Gyaku Tsuki"}
+    ],
+    "fights": "2 rounds à 60 sec",
+    "pushups":30,
+    "situps": 50,
+    "jumps": 30,
+    "pullups": 5,
+    "tobigeri": "Own height + 10 cm"
   },
   {
-    "id": 7,
+    "id": 17,
     "name": "7th kyu",
     "color": "blue",
        "tachikatas": [
@@ -297,10 +319,16 @@
                "id": 1,
                "name": "Sanchin No Kata"
            }
- ]
+ ],
+    "fights": "3 rounds à 60 sec",
+    "pushups": 35,
+    "situps": 55,
+    "jumps": 35,
+    "pullups": 5,
+    "tobigeri": "Own height + 10 cm"
   },
   {
-    "id": 6,
+    "id": 16,
     "name": "6th kyu",
     "color": "yellow",
        "tachikatas": [
@@ -384,10 +412,16 @@
                "id": 1,
                "name": "Pinan Sono San"
            }
-      ]
+      ],
+    "fights": "4 rounds à 60 sec",
+    "pushups":40,
+    "situps": 60,
+    "jumps": 40,
+    "pullups": 8,
+    "tobigeri": "Own height + 15 cm"
   },
   {
-    "id": 5,
+    "id": 15,
     "name": "5th kyu",
     "color": "yellow",
        "tachikatas": [
@@ -443,10 +477,16 @@
                "id": 0,
                "name": "Pinan Sono Yon"
            }
-      ]
+      ],
+    "fights": "5 rounds à 60 sec",
+    "pushups":45,
+    "situps": 65,
+    "jumps": 45,
+    "pullups": 8,
+    "tobigeri": "Own height + 15 cm"
   },
   {
-    "id": 4,
+    "id": 14,
     "name": "4th kyu",
     "color": "green",
        "tsukis": [
@@ -494,10 +534,19 @@
                "id": 3,
                "name": "Taikyoku Sono San Ura"
            }
-      ]
+      ],
+    "renrakus": [
+      {"name": "Renraku 3", "steps": "Mae Geri, Yoko Geri, Ushiro Geri, Chudan Gyaku Tsuki" }
+    ],
+    "fights": "6 rounds à 60 sec",
+    "pushups":50,
+    "situps": 70,
+    "jumps": 50,
+    "pullups": 10,
+    "tobigeri": "Own height + 20 cm"
   },
   {
-    "id": 3,
+    "id": 13,
     "name": "3rd kyu",
     "color": "green",
        "tachikatas": [
@@ -541,10 +590,16 @@
               "id": 0,
               "name": "Tsuki No Kata"
           }
-      ]
+      ],
+    "fights": "10 rounds à 60 sec",
+    "pushups": 55,
+    "situps": 75,
+    "jumps": 55,
+    "pullups": 10,
+    "tobigeri": "Own height + 20 cm"
   },
   {
-    "id": 2,
+    "id": 12,
     "name": "2nd kyu",
     "color": "brown",
        "tachikatas": [
@@ -600,10 +655,19 @@
                "id": 1,
                "name": "Tensho"
            }
-      ]
+      ],
+    "renrakus": [
+      {"name": "Renraku 4", "steps": "Back in Gedan Barai, forward with Ago Uchi and Gyaku Tsuki, one step Mae Geri (Oi Ashi), Mawashi\nGeri, Ushiro Geri, Gedan Barai, Gyaku Tsuki" }
+    ],
+    "fights": "12 rounds à 60 sec",
+    "pushups":60,
+    "situps": 80,
+    "jumps": 60,
+    "pullups": 12,
+    "tobigeri": "Own height + 30 cm"
   },
   {
-    "id": 1,
+    "id": 11,
     "name": "1st kyu",
     "color": "brown",
        "tachikatas": [
@@ -659,6 +723,76 @@
                "id": 1,
                "name": "Yantsu"
            }
-      ]
+      ],
+    "renrakus": [
+      {"name": "Renraku 5", "steps": "Oi Tsuki, Gyaku Tsuki, Oi Tsuki, Shita Tsuki" },
+      {"name": "Renraku 6", "steps": "Mawashi Geri with front leg, Oi Tsuki, Gyaku Tsuki, Mawashi Geri with back leg"}
+    ],
+    "fights": "15 rounds à 60 sec",
+    "pushups":65,
+    "situps": 100,
+    "jumps": 65,
+    "pullups": 12,
+    "tobigeri": "Own height + 30 cm"
+  },
+  {
+    "id": 10,
+    "name": "1st Dan",
+    "color": "black",
+    "tachikatas": [
+    ],
+    "tsukis": [
+      {
+        "id": 0,
+        "name": "Toho Uchi"
+      },
+      {
+        "id": 1,
+        "name": "Age Jodan Tsuki"
+      }
+    ],
+    "ukes": [
+      {
+        "id": 0,
+        "name": "Morote Haito Uchi Uke"
+      }
+    ],
+    "keris": [
+    ],
+    "katas": [
+      {
+        "id": 0,
+        "name": "Saifa"
+      },
+      {
+        "id": 1,
+        "name": "Pinan Sono Ichi Ura"
+      },
+      {
+        "id": 2,
+        "name": "Pinan Sono Ni Ura"
+      },
+      {
+        "id": 3,
+        "name": "Pinan Sono San Ura"
+      },
+      {
+        "id": 4,
+        "name": "Pinan Sono Yon Ura"
+      },
+      {
+        "id": 5,
+        "name": "Pinan Sono Go Ura"
+      }
+    ],
+    "renrakus": [
+      {"name": "Renraku 7", "steps": "Mawashi Geri, Ushiro Mawashi Geri, Jodan Mae Geri, Mawashi Geri, Ushiro Mawashi Geri" }
+    ],
+    "fights": "20 rounds à 60 sec",
+    "pushups":75,
+    "situps": 150,
+    "jumps": 75,
+    "pullups": 15,
+    "tobigeri": "Own height + 30 cm (Tobi Ushiro Geri or Tobi Ushiro Mawashi Geri)"
   }
 ]
