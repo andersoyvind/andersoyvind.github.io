@@ -33,7 +33,7 @@ const selectItem = (itemId) => {
 <template>
   <div class="horizontal">
   <div :key="kuy.id" v-for="kuy in items">
-    <Button @click="() => selectItem(kuy.id)">{{ kuy.name }}</Button>
+    <Button @click="() => selectItem(kuy.id)">{{ kuy.grade }}</Button>
     <div class="button" :style="{ 'background-color': kuy.color}"></div>
     <div class="selected" v-show="selectedItem && selectedItem.id == kuy.id"></div>
   </div>

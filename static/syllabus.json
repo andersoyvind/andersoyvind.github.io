@@ -1,6 +1,7 @@
 [
   {
     "id": 20,
+    "grade": "10",
     "name": "10th kyu",
     "color": "orange",
     "tachikatas": [
@@ -82,6 +83,7 @@
   },
   {
     "id": 19,
+    "grade": "9",
     "name": "9th kyu",
     "color": "orange",
       "tachikatas": [
@@ -162,6 +164,7 @@
   },
   {
     "id": 18,
+    "grade": "8",
     "name": "8th kyu",
     "color": "blue",
       "tachikatas": [
@@ -252,6 +255,7 @@
   },
   {
     "id": 17,
+    "grade": "7",
     "name": "7th kyu",
     "color": "blue",
        "tachikatas": [
@@ -329,6 +333,7 @@
   },
   {
     "id": 16,
+    "grade": "6",
     "name": "6th kyu",
     "color": "yellow",
        "tachikatas": [
@@ -422,6 +427,7 @@
   },
   {
     "id": 15,
+    "grade": "5",
     "name": "5th kyu",
     "color": "yellow",
        "tachikatas": [
@@ -487,6 +493,7 @@
   },
   {
     "id": 14,
+    "grade": "4",
     "name": "4th kyu",
     "color": "green",
        "tsukis": [
@@ -547,6 +554,7 @@
   },
   {
     "id": 13,
+    "grade": "3",
     "name": "3rd kyu",
     "color": "green",
        "tachikatas": [
@@ -600,6 +608,7 @@
   },
   {
     "id": 12,
+    "grade": "2",
     "name": "2nd kyu",
     "color": "brown",
        "tachikatas": [
@@ -668,6 +677,7 @@
   },
   {
     "id": 11,
+    "grade": "1",
     "name": "1st kyu",
     "color": "brown",
        "tachikatas": [
@@ -737,6 +747,7 @@
   },
   {
     "id": 10,
+    "grade": "Shodan",
     "name": "1st Dan",
     "color": "black",
     "tachikatas": [
